@@ -1,0 +1,26 @@
+.example_block {
+  background-color: red;
+}
+.example_block .medium-9,
+.sample_block .large-9,
+.example_block .large-9{
+  background-color: blue;
+}
+
+.example_block .medium-3,
+.example_block .large-3{
+  background-color: green;
+}
+
+.example_block {
+  background-color: pink;
+}
+
+.columns {
+  height: 300px;
+}
+
+.example_block .small-3,
+.example_block .small-6 {
+  background-color: yellow;
+}
